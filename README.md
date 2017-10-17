@@ -1,5 +1,5 @@
 # HMM-Forward-Algorithm
-Computing the forward algorithm for a given HMM
+Computing the forward algorithm for a given Hidden Markov Model
 
 Util.py: Utility functions for the forward algorithm <br />
 HMM.py: Constructs a hidden Markov model <br />
